@@ -20,11 +20,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jcneira14&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=jcneira14&theme=react-dark)
 <a href="https://github.com/jcneira14/github-stats">
-
 </a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcneira14&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcneira14&theme=react) -->
-
 
 ### :hammer_and_wrench: Languages and Tools 
 
