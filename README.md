@@ -16,11 +16,12 @@
 --- 
 
 ### 🔥 My Stats 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jcneira14&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jcneira14&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=jcneira14&theme=react-dark)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=jcneira14&count_private=true&show_icons=true&theme=midnight-purple)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jcneira14&theme=midnight-purple)
+![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=jcneira14&theme=high-contrast	)
 <a href="https://github.com/jcneira14/github-stats">
 </a>
+
 
 ### :hammer_and_wrench: Languages and Tools 
 
