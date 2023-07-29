@@ -9,7 +9,7 @@
 ### 👦 About Me
 - 🎓 I’m a Systems Engineering student at **UTN**
 
-- 🌱 I’m currently learning **C, Haskell, Docker and Python**
+- 🌱 I’m currently learning **C, Haskell, Prolog and Python**
 
 - 🔭 I’m currently working with **pandas, openpyxl and Selenium to create automations**
 
